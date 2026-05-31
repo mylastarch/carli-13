@@ -17,10 +17,10 @@ echo
 	#Let us set the desktop"
 	#First letter of desktop is small letter
 
-	desktop="cinnamon"
-	dmDesktop="cinnamon"
+	desktop="budgie"
+	dmDesktop="budgie-desktop"
 
-	#mylastarchVersion='26.05.19'
+	#mylastarchVersion='26.05.31'
 
 	isoLabel='mylastarch-'$(date +%Y.%m.%d)'-x86_64.iso'
 
@@ -224,7 +224,7 @@ echo
 	newname4='mylastarch'
 
 	#sddm.conf user-session
-	oldname5='Session=cinnamon'
+	oldname5='Session=budgie'
 	newname5='Session='$dmDesktop
 
 	echo "Changing all references"
