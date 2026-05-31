@@ -141,8 +141,10 @@ bash-completion
 sddm
 #sddm-elegant-theme-git
 mylastarch-sddm-viper-theme
-budgie
+cinnamon
 gnome-terminal
+nemo-fileroller
+nemo-compare
 dconf-editor
 kcrash
 #mylastarch-keyring
@@ -159,7 +161,6 @@ fastfetch
 
 #Software
 sublime-text-4
-meld
 cairo-dock
 cairo-dock-plug-ins
 
@@ -184,7 +185,8 @@ vimix-cursors
 
 #desktop related
 #mylastarch-xfce-config
-#mylastarch-cinnamon-config
+mylastarch-cinnamon-config
+file-roller
 gvfs
 gvfs-smb
 xdg-user-dirs-gtk
