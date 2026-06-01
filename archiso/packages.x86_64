@@ -1,8 +1,3 @@
-acl
-adwaita-fonts
-alsa-lib
-alsa-topology-conf
-alsa-ucm-conf
 alsa-utils
 amd-ucode
 arch-install-scripts
@@ -142,6 +137,7 @@ sddm
 #sddm-elegant-theme-git
 mylastarch-sddm-viper-theme
 budgie
+nautilus
 gnome-terminal
 dconf-editor
 kcrash
@@ -151,7 +147,7 @@ kcrash
 calamares
 mylastarch-calamares-config
 #mylastarch-calamares-qml-config
-mylastarch-system-installation
+#mylastarch-system-installation
 #mylastarch-mirrorlist
 kcrash
 yay-bin

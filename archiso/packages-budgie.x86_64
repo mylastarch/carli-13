@@ -1,8 +1,3 @@
-acl
-adwaita-fonts
-alsa-lib
-alsa-topology-conf
-alsa-ucm-conf
 alsa-utils
 amd-ucode
 arch-install-scripts
@@ -141,10 +136,11 @@ bash-completion
 sddm
 #sddm-elegant-theme-git
 mylastarch-sddm-viper-theme
-cinnamon
-gnome-terminal
+budgie
+nautilus
 nemo-fileroller
 nemo-compare
+gnome-terminal
 dconf-editor
 kcrash
 #mylastarch-keyring
@@ -153,7 +149,7 @@ kcrash
 calamares
 mylastarch-calamares-config
 #mylastarch-calamares-qml-config
-mylastarch-system-installation
+#mylastarch-system-installation
 #mylastarch-mirrorlist
 kcrash
 yay-bin
@@ -161,6 +157,7 @@ fastfetch
 
 #Software
 sublime-text-4
+meld
 cairo-dock
 cairo-dock-plug-ins
 
@@ -185,8 +182,7 @@ vimix-cursors
 
 #desktop related
 #mylastarch-xfce-config
-mylastarch-cinnamon-config
-file-roller
+#mylastarch-cinnamon-config
 gvfs
 gvfs-smb
 xdg-user-dirs-gtk
