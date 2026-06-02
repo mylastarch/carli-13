@@ -33,7 +33,7 @@ rm /root/{.automated_script.sh,.zlogin}
 mv /etc/mylastarch-release /etc/lsb-release
 
 #cleanup
-for i in 'ls /home/'; do rm -rf /home/$i/*/calamares.desktop || exit 0; done
+#for i in 'ls /home/'; do rm -rf /home/$i/*/calamares.desktop || exit 0; done
 #for i in 'ls /home/'; do rm -rf /home/$i/.local/share/xfce* || exit 0; done
 
 
